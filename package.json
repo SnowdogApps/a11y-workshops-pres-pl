@@ -10,10 +10,10 @@
     "slidev": ">=0.19.3"
   },
   "scripts": {
-    "build": "slidev build example.md",
-    "dev": "slidev example.md --open",
-    "export": "slidev export example.md",
-    "screenshot": "slidev export example.md --format png"
+    "build": "slidev build slides.md --download",
+    "dev": "slidev slides.md --open",
+    "export": "slidev export slides.md",
+    "screenshot": "slidev export slides.md --format png"
   },
   "dependencies": {
     "@slidev/theme-default": "^0.21.2",
