@@ -1,8 +1,10 @@
 {
-  "name": "slidev-theme-snowdog",
+  "name": "a11y-workshops-pres-en",
   "version": "0.0.0",
+  "author": "Ania Karon",
   "keywords": [
-    "slidev-theme",
+    "accessibility",
+    "a11y",
     "slidev"
   ],
   "engines": {
