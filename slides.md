@@ -17,27 +17,6 @@ Warsztaty
 layout: aboutme
 ---
 
----
-
-# Plan warsztatów
-
-
-12:00 - 12:15 Wprowadzenie
-
-12:15 - 12:35 Narzędzia do testowania, instalacja repozytorium
-
-12:35 - 13:00 Poprawiamy dostępność: Struktura i semantyka
-
-13:00 - 13:15 Przerwa
-
-13:15 - 14:00 Poprawiamy dostępność: komponenty
-
-14:00 - 14:15 Przerwa
-
-14:15 - 14:45 Testujemy
-
-14:45 - 15:00 Podsumowanie warsztatów
-
 
 ---
 layout: center
@@ -48,7 +27,7 @@ class: "text-center"
 
 ## Jak będziemy pracować?
 
-Repozytorium: [https://github.com/anqaka/a11y-space](https://github.com/anqaka/a11y-space)
+Repozytorium: [https://github.com/SnowdogApps/a11y-space](https://github.com/SnowdogApps/a11y-space)
 
 Strona: [A11y space](https://a11y-space.vercel.app/)
 
