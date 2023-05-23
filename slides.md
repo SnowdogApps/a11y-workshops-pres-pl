@@ -384,7 +384,6 @@ li {
 * `aria-atomic` - informuje, jak elementy w "obserwowanym" regionie (oznaczonym atrybutem `aria-live`) mają zostać przedstawione - tylko zmiany: `false`, czy wszystkie elementy: `true`
 
 
-
 ---
 layout: thankyou
 
