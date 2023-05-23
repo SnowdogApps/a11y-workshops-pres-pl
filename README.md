@@ -1,6 +1,8 @@
 <h1 lang="pl">Dostępna przestrzeń - prezentacja</h1>
 
-<p lang="pl">Ta wersja prezentacji jest w języku polskim, <a href="#" target="_blank">werja angielska dostępna pod tym linkiem.</a></p>
+<p lang="pl"><a href="https://a11y-workshops-pres-pl.vercel.app/">Link do slajdów</a></p>
+
+<p lang="pl">Ta wersja prezentacji jest w języku polskim, dostępna jest również wersja angielska:<br/><a href="https://a11y-workshops-pres-en.vercel.app/" target="_blank">slajdy</a><br><a href="https://github.com/SnowdogApps/a11y-workshops-pres-en" target="_blank">repozytorium</a></p>
 
 <p lang="pl">Prezentacja przygotowana na warsztaty frontendowe z dostępności (#accessibility, #a11y). W prezentacji znajdziecie podstawowe informacje, na co należy zwracać uwagę w kodzie frontendowym, aby strona była dostępna dla wszystkich, również dla użytkowników, którzy używają różnych technologii asystujacych (AT):</p>
 
